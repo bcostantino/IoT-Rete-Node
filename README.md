@@ -1,5 +1,5 @@
 # IoT-Net-Node
-This is a sketch made to run on an [ESP8266](https://www.espressif.com/en/products/socs/esp8266) powered MCU. The MCU will act as a node, which can send/recieve messages from a [master](https://github.com/bcostantino/IoT-Rete-Master) server. The master manages the nodes, effectively centralizing tasks to be delegated to nodes.
+This is a sketch made to run on an [ESP8266](https://www.espressif.com/en/products/socs/esp8266) powered MCU. The MCU will act as a node, which can send/recieve messages from a [master](https://github.com/bcostantino/IoT-Rete-Master) server.
 
 #### Related
 - [IoT Rete Master](https://github.com/bcostantino/IoT-Rete-Master)
